@@ -30,20 +30,12 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 
 https://github.com/user-attachments/assets/41497f9d-6aa0-4920-a142-b37149c72c92
 
-## Screenshots 
+## Screenshots - UI Mode
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-        <img src="https://github.com/user-attachments/assets/20ba4624-4011-4353-8483-86fe30cdd9c6" alt="Sync Started" width="150">
-      </td>
-      <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Adds space between images -->
-      <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-        <img src="https://github.com/user-attachments/assets/de445a29-e126-419d-93a0-a5441d8f1f52" alt="Sync Stopped" width="150">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/20ba4624-4011-4353-8483-86fe30cdd9c6" alt="Sync Started" width="30%"">
+  <img src="https://github.com/user-attachments/assets/de445a29-e126-419d-93a0-a5441d8f1f52" alt="Sync Stopped" width="30%">
 </p>
+
 
 
 
