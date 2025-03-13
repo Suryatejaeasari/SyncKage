@@ -27,16 +27,14 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 
 ### **Usage Modes**  
 1. **Hidden Mode (Stealth)** – Runs as a background service, controllable via ADB.  
-2. **UI Mode** – Provides Start/Stop buttons and real-time logs.  
+2. **UI Mode** – Provides Start/Stop buttons and real-time logs.
+[![Watch the Video](https://drive.google.com/file/d/1iMFvtrBoYJF1RsrJQtdoaAxV7BqZCc2S/view)](https://drive.google.com/file/d/1iMFvtrBoYJF1RsrJQtdoaAxV7BqZCc2S/view)  
+🔹 Click to watch on Google Drive! 
 
 ## ❗ Limitations  
 - **Service Account Requirement** – Users must create and configure their own Google Drive service account.  
 - **No Installation Guide** – Due to authentication constraints, installation steps are skipped.  
 - **Requires ADB for Hidden Mode** – Stealth mode is designed for power users with ADB knowledge.  
-
-## 📸 Screenshots  
-![SyncKage UI](assets/screenshot1.png)  
-![Background Mode](assets/screenshot2.png)  
 
 ## 🔮 Future Scope  
 - Custom sync intervals for better power efficiency  
@@ -46,4 +44,4 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 SyncKage was developed to enhance Android file management by providing **effortless, real-time synchronization**, just like Google Drive for Desktop.  
 
 ## 📜 License  
-SyncKage is released under the [MIT License](LICENSE).  
+SyncKage is released under the [MIT License](LICENSE).
