@@ -46,4 +46,4 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 SyncKage was developed to enhance Android file management by providing **effortless, real-time synchronization**, just like Google Drive for Desktop.  
 
 ## 📜 License  
-SyncKage is released under the [`MIT License`](LICENSE).  
+SyncKage is released under the [MIT License](LICENSE).  
