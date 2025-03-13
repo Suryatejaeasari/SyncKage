@@ -31,22 +31,22 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 https://github.com/user-attachments/assets/41497f9d-6aa0-4920-a142-b37149c72c92
 
 ## Screenshots - UI Mode
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/20ba4624-4011-4353-8483-86fe30cdd9c6" alt="Sync Started" width="30%"">
+<p align="center" style="display: flex; justify-content: center; gap: 50px;">
+  <img src="https://github.com/user-attachments/assets/20ba4624-4011-4353-8483-86fe30cdd9c6" alt="Sync Started" width="30%">
   <img src="https://github.com/user-attachments/assets/de445a29-e126-419d-93a0-a5441d8f1f52" alt="Sync Stopped" width="30%">
 </p>
 
-
-
-
 ## Limitations  
-- **Service Account Requirement** – Users must create and configure their own Google Drive service account.  
-- **No Installation Guide** – Due to authentication constraints, installation steps are skipped.  
-- **Requires ADB for Hidden Mode** – Stealth mode is designed for power users with ADB knowledge.  
+- **Service Account Requirement** – SyncKage relies on a **Google Drive service account** for authentication. Users must manually create and configure their own service account, which involves setting up a Google Cloud project and generating credentials.  
+- **Requires ADB for Hidden Mode** – The **Stealth Mode** runs without a UI and requires **Android Debug Bridge (ADB)** to start, stop, or configure the service, making it suitable only for advanced users.  
+- **Background Execution Constraints** – Some Android devices may restrict background services due to **battery optimization policies**, which might delay synchronization unless the app is granted proper permissions.  
 
 ## Future Scope  
-- Custom sync intervals for better power efficiency  
-- Encryption before upload for enhanced security  
+- **Custom Sync Intervals for Power Efficiency** – Instead of constant real-time monitoring, users could set **sync intervals** (e.g., every 5, 10, or 30 minutes) to optimize battery usage.  
+- **Encryption Before Upload for Enhanced Security** – Implementing **AES-256 encryption** for files before upload to protect sensitive data.  
+- **Selective Sync Options** – Allow users to choose **specific folders or file types** to sync, reducing unnecessary data transfers.  
+- **Sync Logs and Error Reporting** – A basic log system to track sync status and errors for easier debugging.  
+
 
 ## Acknowledgments  
 SyncKage was developed to enhance Android file management by providing **effortless, real-time synchronization**, just like Google Drive for Desktop.  
