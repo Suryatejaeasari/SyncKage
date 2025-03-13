@@ -32,8 +32,8 @@ https://github.com/user-attachments/assets/41497f9d-6aa0-4920-a142-b37149c72c92
 
 ## Screenshots - UI Mode
 <p align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <img src="https://github.com/user-attachments/assets/20ba4624-4011-4353-8483-86fe30cdd9c6" alt="Sync Started" width="30%">
-  <img src="https://github.com/user-attachments/assets/de445a29-e126-419d-93a0-a5441d8f1f52" alt="Sync Stopped" width="30%">
+  <img src="https://github.com/user-attachments/assets/a890e090-fb9e-4aec-93af-225579e3c880" alt="Sync Started" width="30%">
+  <img src="https://github.com/user-attachments/assets/96d0911f-8c31-4cd3-a320-7beb84adc05e" alt="Sync Stopped" width="30%">
 </p>
 
 ## Limitations  
