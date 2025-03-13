@@ -28,8 +28,8 @@ Google Drive for Desktop enables seamless folder synchronization, but its Androi
 ### **Usage Modes**  
 1. **Hidden Mode (Stealth)** – Runs as a background service, controllable via ADB.  
 2. **UI Mode** – Provides Start/Stop buttons and real-time logs.
-[![Watch the Video](https://drive.google.com/file/d/1iMFvtrBoYJF1RsrJQtdoaAxV7BqZCc2S/view)](https://drive.google.com/file/d/1iMFvtrBoYJF1RsrJQtdoaAxV7BqZCc2S/view)  
-🔹 Click to watch on Google Drive! 
+
+https://github.com/user-attachments/assets/41497f9d-6aa0-4920-a142-b37149c72c92
 
 ## ❗ Limitations  
 - **Service Account Requirement** – Users must create and configure their own Google Drive service account.  
