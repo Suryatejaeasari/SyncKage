@@ -1,0 +1,7 @@
+<resources>
+    <string name="switch_wifi">Wi-Fi Only</string>
+    <string name="switch_encryption">Enable Encryption</string>
+    <string name="switch_auto_sync">Auto Sync</string>
+    <string name="btn_list_files">List Files in Folder</string>
+    <string name="txt_result">Press button to list files</string>
+</resources>
